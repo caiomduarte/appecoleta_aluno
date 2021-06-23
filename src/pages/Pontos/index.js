@@ -9,7 +9,13 @@ import { useNavigation}  from '@react-navigation/native';
 //Importando o mapa
 import MapView, { Marker } from 'react-native-maps';
 
+
+
+
+
 export default function Pontos() {
+
+  
 
    navigation = useNavigation();
 
